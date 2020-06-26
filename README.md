@@ -1,2 +1,4 @@
 # new-project
 this is new project
+DOWNLOAD PLOTLY 
+COMMAND FOR WINDOW: PIP INSTALL PLOTLY
